@@ -9,7 +9,7 @@ Deploye link :- https://multimart-ecommerce.onrender.com
 - **Frontend:** React, TypeScript, Tailwind CSS, Vite
 - **Backend:** Node.js, Express, MongoDB, JWT
 - **Dev Tools:** Nodemon, Concurrently
-- **Deployment:** Vercel (Frontend), Render or Railway (Backend)
+- **Deployment:**  Render 
 
 ---
 
